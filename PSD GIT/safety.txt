@@ -1,0 +1,36 @@
+<div class="container" >
+<p class="bg-info">Safety Rules: Players are not allowed to pull
+, hit, or punch the ball out of the opponent's hands, 
+endanger an opponent with the ball, or contact the ball
+ below the knees. Goalie Rules: 
+ ❖ Goalies may defend their goals in any manner using
+ hands, feet, and body.</p></div>
+<p> RULES</p>
+<li class="list-group-item">A competitive game consists of
+ equal 30-minute halves with a 10-15 minute break.</li>
+ <li class="list-group-item">A team cannot keep possession
+ of the ball without attempting to attack.</li>
+ <li class="list-group-item">The start is awarded to the 
+ team that wins the coin toss.</li>
+<li class="list-group-item"> A match begins with both
+ teams in their own half.</li>
+
+<li class="list-group-item"> A goal can be scored from
+ any type of throw.</li>
+
+<li class="list-group-item"> A player can run with the
+ ball for three steps maximum.</li>
+<li class="list-group-item"> A player can hold a ball for
+ up to three seconds maximum.</li>
+
+<li class="list-group-item"> A player can continuously 
+dribble, providing they bounce the ball.</li>
+
+<li class="list-group-item"> A player can take three 
+steps maximum before and after dribbling (no 'double 
+dribble').</li>
+
+
+
+
+

@@ -1,0 +1,5 @@
+ <div class="container-fluid bg-danger">Sports or athletic
+ games typically performed in the open, including physical exertion,
+are referred to as outdoor games. </div>
+ 
+ 

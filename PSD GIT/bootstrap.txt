@@ -1,0 +1,55 @@
+  <html>
+  <head>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+ <body class=" bg-danger">
+
+<p class="#"><center>HAND BALL</center></p> 
+<nav class="navbar navbar-inverse">
+<div class="container-fluid">
+<a class="navbar-brand" href="handball.html">HAND BALL</a>
+
+<ul class=" nav navbar-nav">
+        <li class="dropdown">
+       <a class="dropdown-toggle" data-toggle="dropdown" href="#">about<span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="#">no of players</a></li>
+            <li><a href="#">how to play</a></li>
+            <li><a href="#">warm up exercises</a></li>
+          </ul>
+		  </li>
+
+<li><a href="safety.html">safety</a></li>
+<li><a href="other games.html">other games</a></li>
+<li><a href="tabulatio.html">tabulation</a></li>
+<li><a href="form.html">to register</a></li>
+</div>
+</nav>
+<img src="C:\Users\ADMIN\Desktop\ball.jpg" class="img-fluid img-thumbnail"
+height="400" width="400">
+   <table class="table"><a href="tabulation.html">
+<table class="table table-bordered table-hover">
+   <table class="table table-success table-striped table-hover">
+   <tr>
+   <th>District</th>
+   <th>No of times won</th>
+   <th>Place among other districts(10)</th>
+</tr>
+<tr>
+<td> Erode</td>
+<td> 7</td>
+<td>3</td>
+</tr>
+<tr>
+<td>Tirupur</td>
+<td> 4</td>
+<td>9</td>
+</tr>
+<tr>
+<td>Chennai</td>
+<td>9</td>
+<td>1</td>
+</tr>
+

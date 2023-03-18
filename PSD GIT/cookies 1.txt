@@ -1,0 +1,86 @@
+<html>
+<head>
+</head>
+<body bgcolor="pink">
+<style>
+ul {font-style:italic;
+font-size:20pt;
+border-style:dotted;
+}
+ol{
+font-size:15pt;}
+</style>
+<ol>
+</ol>
+<h1><centre> COOKIES </centre</h1>
+<h6>All-natural feminine hygiene products including intimate washes and shave oil to
+ keep your vagina fresh and clean, pads, tampons, and more.</h6>
+<img src="C:\Users\ADMIN\Desktop\cookie.jpg"
+height="150"
+width="150">
+<ul>
+<li>prep time:20mins</li>
+<li>cook time:10mins</li>
+<li> total time:30 mins</li>
+</ul>
+<h5>TYPES OF COOKIES</h5>
+<ol>
+<li><a href="https://www.allrecipies.com/">chocolate cookies</a></li>
+<li><a href="https://www.preppykitchen.com/">short bread cookies</a></li>
+<li><a href="https://www.simplyrecipes.com">peanut butter cookies</a></li>
+<li>sugar cookies</li>
+<li> butter cookies</li>
+</ol>
+<img src="C:\Users\ADMIN\Desktop\Cookies1.jpeg"
+height="150"
+width="150">
+<h5>INGREDIENTS</h5>
+<ol>
+<li>butter</li>
+<li>white sugar</li>
+<li>brown sugar</li>
+<li>eggs</li>
+<li>vanilla extract</
+<li>baking soda</li>
+<li>hot water</li>
+<li>chooped walnuts</li>
+</ol>
+
+<h5>PREPARATION</h5>
+<video width="400" height="400" controls>
+<source src="https://www.youtube.com/watch?v=jVI2eNW5iuM" >
+</video>
+<h5>TABULATION</h5>
+
+<table border="50" cell spacing="100" cell padding="100">
+<tr>
+     <th>cokkie name</th>
+     <th>type</th>
+     <th>place of origin</th>
+     <th>ingredients</th>
+</tr>
+<tr>
+     <td>butter cookie</td>
+     <td rowspan="2">cookie</td>
+     <td>denmark</td>
+     <td>butter</td>
+</tr>
+<tr>
+     <td>peanut butter</td>
+     <td>united states</td>
+     <td>peanut butter</td>
+</tr>
+<tr>
+     <td>short bread cookie</td>
+     <td>biscuit</td>
+     <td>scotland</td>
+     <td>flour,butter,white sugar</td>
+</tr>
+</table>
+<center><a href="#top">goto top</a></center>
+<input type="submit" name="submit">
+</body>
+</html>
+
+
+

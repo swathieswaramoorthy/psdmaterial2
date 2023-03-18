@@ -1,0 +1,40 @@
+   <form action="/action_page.php" class="was-validated">
+  <div class="row">
+  <div class="col">
+      <label for="name">Name:</label>
+    <input type="text" class="form-control" placeholder="firstname"required>
+</div>
+ </div><br>
+<div>
+      <label for="name">mobile number:</label>
+    <input type="mnum" class="form-control" id="mnum" placeholder="enter mobilenum" name="mnum"required>
+</div><br>
+<div>
+    <label for="email">Email address:</label>
+    <input type="email" class="form-control" id="email">
+  </div><br>
+  <div class="form-group">
+    <label for="pwd">Password:</label>
+    <input type="password" class="form-control" id="pwd" placeholder="must be strong">
+  </div><br>
+    <div>
+	<label for="exampleFormControlTextarea1">address</label>
+    <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" placeholder="pincode*"></textarea>
+</div><br>
+<div class="form-check">
+<label>other games:</label><br><br>
+  <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios1" value="option1" checked>
+    <label class="form-check-label" for="exampleRadios1">
+	volley ball</label><br>
+	  <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios1" value="option1" checked>
+    <label class="form-check-label" for="exampleRadios1">
+    kho-kho</label>
+</div><br>
+	
+  <div class="checkbox">
+    <label><input type="checkbox"> I agree all the above details are true to my knowledge</label>
+</div><br>
+  <button type="submit" class="btn btn-default">Submit</button>
+
+</form>
+

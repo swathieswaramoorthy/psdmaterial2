@@ -1,0 +1,47 @@
+h3{
+font-style:italic;
+font-size:20px;
+text-decoration:underline;
+}
+.topnav{
+	background-color:#333;
+	overflow:hidden;
+}
+.topnav a{float:right;
+	color:#ddd;
+	padding:20px;
+}
+.topnav a:hover{
+	background-color:#ddd;
+}
+	
+body{
+		background-color:#FFDFD3;
+
+}
+.fact{
+margin:0;
+padding:0;
+border-style:double;
+border-color:red;}
+.flex-container
+{
+	display:flex;
+	font-style:italic;
+	text-decoration:underline;
+	background-color:#D291BC;
+	gap:10px;
+	padding:10pt;
+	flex-direction:column;
+}
+.jam{
+color:blue;}
+.milk{
+color:green;}
+.grid-container{
+	display:grid;
+	grid-template-columns:40% 10% 50%;
+	gap:10pt;
+	background-color:#D291BC;
+    grid-template-rows:80px 20px;
+}
